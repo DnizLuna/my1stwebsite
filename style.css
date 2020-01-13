@@ -94,7 +94,7 @@ h3{
 
 .parallax{
   /* The image used */
-  background-image: url("/root/Desktop/example/images/sheann10.jpg");
+  background-image: url("sheann10.jpg");
   margin-top: 30px;
   /* Set a specific height */
   height: 300px;
